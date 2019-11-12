@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Piechulski Business</string>
+    <string name="schedule"><u>Time Schedule</u></string>
+    <string name="business_name">Auto Repair and Shop - Mercedes</string>
+    <string name="contact">Contact:</string>
+    <string name="description">Fixing cars, changing timing gear, major engine repairs, car suspension, gearbox.</string>
+    <string name="closed">CLOSED</string>
+
+    <string name="monday" translatable="false">Monday</string>
+    <string name="tuesday" translatable="false">Tuesday</string>
+    <string name="wednesday" translatable="false">Wednesday</string>
+    <string name="thursday" translatable="false">Thursday</string>
+    <string name="friday" translatable="false">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="workdays">Working days</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+</resources>
